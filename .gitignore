@@ -1,5 +1,6 @@
+.idea
 *messages_app.iml
 /target
 /test
 resources
-sqljdbc_8.2\enu
+/sqljdbc_8.2\\enu
